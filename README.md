@@ -57,6 +57,7 @@ I bring a physicist's rigor to data science — from solving ODEs for photon tra
 | **GR Simulator** | Numerical simulation of photon trajectories in Schwarzschild & Reissner-Nordström spacetimes | Python · SciPy · Matplotlib |
 | **FLASH-MHD** | MHD accretion disk simulation around a black hole using FLASH (U. Rochester) | FLASH · Fortran · Python |
 | **Luxto-NSP** | Real-time web platform for youth group management with Firebase + live assembly mode | HTML/JS · Firebase RTDB · Apps Script |
+| [**Manim Physics**](https://github.com/elbrujo325/manim-physics) | Educational physics animations with Manim — step-by-step math, 3D scenes, vector fields | Python · Manim · LaTeX |
 
 #### 🎥 Science Communication
 
