@@ -49,7 +49,7 @@ I work at the intersection of **computational physics, data science, and softwar
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **GR Simulator** | Numerical simulation of photon trajectories in Schwarzschild & Reissner-Nordström spacetimes | Python · SciPy · Matplotlib |
+| [**GR Simulator**](https://github.com/elbrujo325/GR-Simulator) | Numerical simulation of photon trajectories in Schwarzschild & Reissner-Nordström spacetimes | Python · SciPy · Matplotlib |
 | [**FLASH-MHD**](https://github.com/elbrujo325/FLASH-MHD-Analysis) | MHD accretion disk simulation around a black hole using FLASH (U. Rochester) | FLASH · Fortran · Python |
 | [**Manim Physics**](https://github.com/elbrujo325/manim-physics) | Educational physics animations with Manim — step-by-step math, 3D scenes, vector fields | Python · Manim · LaTeX |
 
