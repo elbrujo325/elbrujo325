@@ -32,7 +32,7 @@ I work at the intersection of **computational physics, data science, and softwar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,postgres,sklearn,pandas,numpy,scipy,matplotlib,latex,git,linux,docker,firebase,pytorch,fastapi&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,sql,postgres,sklearn,pandas,numpy,scipy,matplotlib,latex,git,linux,docker,firebase,pytorch,fastapi,fortran&perline=8" />
   </a>
 </p>
 
