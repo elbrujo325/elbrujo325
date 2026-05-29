@@ -76,19 +76,10 @@ I work at the intersection of **computational physics, data science, and softwar
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elbrujo325&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5C518&icon_color=C4703A&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbrujo325&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5C518&text_color=c9d1d9" alt="Top Languages" height="170">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elbrujo325&theme=dark&hide_border=true&background=0d1117&stroke=30363D&ring=F5C518&fire=C4703A&currEdge=F5C518" alt="GitHub Streak" height="170">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elbrujo325&theme=darkhub&no-bg=true&no-frame=true&column=4" alt="Trophies" height="100">
+  <img src="https://streak-stats.demolab.com?user=elbrujo325&theme=dark&hide_border=true&background=0d1117&stroke=30363D&ring=F5C518&fire=C4703A&currEdge=F5C518&sideEdges=30363D&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170">
 </div>
 
 <picture align="center">
