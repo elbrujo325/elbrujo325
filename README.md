@@ -52,6 +52,7 @@ I work at the intersection of **computational physics, data science, and softwar
 | [**GR Simulator**](https://github.com/elbrujo325/GR-Simulator) | Numerical simulation of photon trajectories in Schwarzschild & Reissner-Nordström spacetimes | Python · SciPy · Matplotlib |
 | [**FLASH-MHD-Analysis**](https://github.com/elbrujo325/FLASH-MHD-Analysis) | MHD accretion disk simulation analysis — magnetic field & temperature profiles from FLASH (U. Rochester) | Python · SciPy · Matplotlib |
 | [**Manim Physics**](https://github.com/elbrujo325/manim-physics) | Educational physics animations with Manim — step-by-step math, 3D scenes, vector fields | Python · Manim · LaTeX |
+| [**Projecto GLORYS**](https://github.com/elbrujo325/projecto-glorys) | Climatological oceanographic analysis of Peruvian coast — SST, salinity, currents from GLORYS12V1 (1993–2026) | Python · xarray · Dask · Cartopy · cmocean |
 
 ### 📊 Data Science & Quantitative Analysis
 
