@@ -38,10 +38,10 @@ I work at the intersection of **computational physics, data science, and softwar
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python · SQL · Fortran · LaTeX |
+| **Languages** | Python · Fortran · LaTeX |
 | **Data Science** | Pandas · NumPy · SciPy · Scikit-Learn · Matplotlib |
 | **DevOps & Tools** | Git/GitHub · Linux · Docker · Firebase · Google Apps Script |
-| **Currently Learning** | PyTorch · FastAPI · PostgreSQL · Power BI |
+| **📚 Currently Learning / Practicing** | LightGBM · Optuna · SQL |
 
 ---
 
@@ -58,10 +58,8 @@ I work at the intersection of **computational physics, data science, and softwar
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Small Cap Trading Bot**](https://github.com/elbrujo325/small-cap-trading-bot) | Backtesting system for systematic small-cap strategies with ATR-based risk management *(built at HSE Golden)* | Python · Pandas · yfinance · Matplotlib |
-| [**ATR Stop Loss Optimization**](https://github.com/elbrujo325/atr-optimizacion-smallcaps) | Quantitative framework for optimal ATR-based SL multipliers under Buying Power constraints *(built at HSE Golden)* | Python · NumPy · SciPy |
-| [**ATR TP Distance Analysis**](https://github.com/elbrujo325/atr-tp-analysis) | MFE/MAE analysis of Take Profit placement vs market favorable excursion *(built at HSE Golden)* | Python · Pandas · Matplotlib |
-| [**CV Trading Screener**](https://github.com/elbrujo325/computer-vision-trading-screener) | Computer vision screener that extracts statistical structure from chart images using color segmentation *(built at HSE Golden)* | Python · OpenCV · NumPy |
+| [**smallcap-quant-ml**](https://github.com/elbrujo325/smallcap-quant-ml) | End-to-end ML pipeline (LightGBM) for small-cap trading strategy generation with adaptive risk management — consolidates and supersedes prior ATR/risk-management experiments | Python · Pandas · LightGBM · Optuna · NumPy |
+| [**CV Trading Screener**](https://github.com/elbrujo325/computer-vision-trading-screener) | Computer vision screener that extracts statistical structure from chart images using color segmentation | Python · OpenCV · NumPy · Scikit-Learn |
 
 ### 🌐 Web & Tools
 
