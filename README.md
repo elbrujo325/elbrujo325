@@ -10,13 +10,13 @@
 
 ---
 
-### 🧑‍🔬 About Me
+### 🧑🔬 About Me
 
 ```python
 class Paolo:
     def __init__(self):
         self.education = "B.Sc. Physics — UNMSM (Lima, Perú)"
-        self.thesis = "Perturbative analysis of the photon ring in Schwarzschild metric"
+        self.thesis = "Perturbative analysis of photon orbits in Reissner-Nordström spacetime"
         self.research = "MHD accretion disk simulation using FLASH code"
         self.science_comm = "@lomejorphysics — Manim physics animations"
         self.seeking = "Junior Data Analyst / Data Scientist / Backend Python roles"
@@ -32,7 +32,7 @@ I work at the intersection of **computational physics, data science, and softwar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,postgres,sklearn,pandas,numpy,scipy,matplotlib,latex,git,linux,docker,firebase,pytorch,fastapi,fortran&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,fore,sklearn,pandas,numpy,scipy,matplotlib,latex,git,linux,docker,firebase,fastapi&perline=8" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ I work at the intersection of **computational physics, data science, and softwar
 | **Languages** | Python · Fortran · LaTeX |
 | **Data Science** | Pandas · NumPy · SciPy · Scikit-Learn · Matplotlib |
 | **DevOps & Tools** | Git/GitHub · Linux · Docker · Firebase · Google Apps Script |
-| **📚 Currently Learning / Practicing** | LightGBM · Optuna · SQL |
+| **📚 Currently Learning / Practicing** | SQL · LightGBM · Optuna · FastAPI |
 
 ---
 
@@ -58,7 +58,7 @@ I work at the intersection of **computational physics, data science, and softwar
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**smallcap-quant-ml**](https://github.com/elbrujo325/smallcap-quant-ml) | End-to-end ML pipeline (LightGBM) for small-cap trading strategy generation with adaptive risk management — consolidates and supersedes prior ATR/risk-management experiments | Python · Pandas · LightGBM · Optuna · NumPy |
+| [**smallcap-quant-ml**](https://github.com/elbrujo325/smallcap-quant-ml) | End-to-end ML pipeline (LightGBM) for small-cap trading strategy generation with adaptive risk management — consolidates and supersedes prior ATR/risk-management experiments. Active development. | Python · Pandas · LightGBM · Optuna · NumPy |
 | [**CV Trading Screener**](https://github.com/elbrujo325/computer-vision-trading-screener) | Computer vision screener that extracts statistical structure from chart images using color segmentation | Python · OpenCV · NumPy · Scikit-Learn |
 
 ### 🌐 Web & Tools
