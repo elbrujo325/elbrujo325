@@ -8,7 +8,7 @@ Python · SQL · Machine Learning · Quantitative Analysis
 Lima, Perú · Open to remote roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry%20Paolo%20Alfaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-paolo-alfaro-sotil-3b75a9338)
-[![Email](https://img.shields.io/badge/Email-henry.alfaro1@unmsm.edu.pe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.alfaro1@unmsm.edu.pe)
+[![Email](https://img.shields.io/badge/Email-paolosotil97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.alfaro1@unmsm.edu.pe)
 [![Instagram](https://img.shields.io/badge/@lomejorphysics-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lomejorphysics)
 
 </div>
